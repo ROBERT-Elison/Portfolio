@@ -2,7 +2,8 @@
 
 <h1>Sprint 1 – Votre charte graphique</h1>  
 
-# Chargement
+# Chargement  
+<a href="https://zupimages.net/viewer.php?id=20/28/i498.gif"><img src="https://zupimages.net/up/20/28/i498.gif" alt="" /></a>
 <a href="https://zupimages.net/viewer.php?id=20/28/gyyb.gif"><img src="https://zupimages.net/up/20/28/gyyb.gif" alt="" /></a>
 
 # Couleurs: 
