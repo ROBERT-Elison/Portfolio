@@ -2,6 +2,9 @@
 
 <h1>Sprint 1 – Votre charte graphique</h1>  
 
+# Logo
+<a href="https://zupimages.net/viewer.php?id=20/28/nwr7.jpg"><img src="https://zupimages.net/up/20/28/nwr7.jpg" alt="" width="200" heigth="200"/></a>
+
 # Chargement  
 <a href="https://zupimages.net/viewer.php?id=20/28/i498.gif"><img src="https://zupimages.net/up/20/28/i498.gif" alt="" /></a>
 <a href="https://zupimages.net/viewer.php?id=20/28/gyyb.gif"><img src="https://zupimages.net/up/20/28/gyyb.gif" alt="" /></a>
