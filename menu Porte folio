@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Porte Folio</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a>Accueil</a></li>
+            <li><a>à propos de moi</a></li>
+            <li><a>mes compétences et atout</a></li>
+            <li><a>mon parcours professionnel</a></li>
+            <li><a>mes information personnel</a></li>
+            <li><a>contact</a></li>
+        </ul>
+    </nav>
+
+</body>
+
+</html>
+nav ul{
+    padding: 1%;
+    margin: 1%;
+    list-style-type: none;
+    background-color: blueviolet;
+    color: white;
+    
+}
+nav li{
+    display: inline;
+    width: 5%;
+    height: 5%;
+    margin: 5%;
+    padding: 5%;
+    cursor: pointer;
+}
+nav li a:hover{
+    color: rgb(0, 60, 255);
+
+}
