@@ -1,20 +1,45 @@
-nav ul{
-    padding: 1%;
-    margin: 1%;
+body{
+    background: linear-gradient(342deg, rgba(255,65,0,1) 28%, rgba(226,218,30,1) 49%, rgba(255,255,255,1) 50%, rgba(226,218,30,1) 51%, rgba(255,0,0,1) 88%);
+    background-repeat: no-repeat;
+    text-shadow: linear-gradient(0deg, rgba(255,0,0,1) 0%, rgba(255,65,0,1) 30%, rgba(226,218,30,1) 49%, rgba(255,255,255,1) 50%, rgba(226,218,30,1) 51%, rgba(255,65,0,1) 70%, rgba(255,0,0,1) 100%) 200px 450px 400px;
+}
+.MenuNav{
+    display: flex;
+    padding: 20px;
+    margin: 10px;
     list-style-type: none;
-    background-color: blueviolet;
-    color: white;
-    
+    background: linear-gradient(0deg, rgba(255,0,0,1) 0%, rgba(255,65,0,1) 30%, rgba(226,218,30,1) 49%, rgba(255,255,255,1) 50%, rgba(226,218,30,1) 51%, rgba(255,65,0,1) 70%, rgba(255,0,0,1) 100%);
+    color:black;
+    border-radius: 300px;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    text-shadow: 5px 5px 5px rgba(255,65,0,1);
+    text-shadow: 6px 6px 6px rgba(226,218,30,1);
+    text-shadow: 4px 4px 4px rgba(255,255,255,1);
 }
-nav li{
+.MenuNav--bouton{
+    display: flex;
+    justify-content: center;
     display: inline;
-    width: 5%;
-    height: 5%;
-    margin: 5%;
-    padding: 5%;
+    margin: 5px;
+    padding: 5px;
     cursor: pointer;
+    margin-left: 70px;
 }
-nav li a:hover{
-    color: rgb(0, 60, 255);
-
+.MenuNav--bouton:hover{
+    color: red;
+    background-color: yellow;
+    border-radius: 50px;
+}
+img{
+    height: 80px;
+    width: 80px;
+    margin-left: 30px;
+    border-radius: 50%;
+}
+p{
+    text-shadow: rgba(red, green, blue, alpha);
+    border: solid 2px black;
 }
